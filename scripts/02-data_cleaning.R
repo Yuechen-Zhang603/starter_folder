@@ -1,7 +1,7 @@
 #### Preamble ####
 # Purpose: Cleans the raw plane data recorded by two observers..... [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
-# Date: 6 April 2023 [...UPDATE THIS...]
+# Author: Yuechen Zhang [...UPDATE THIS...]
+# Date: 19 Sep 2024 [...UPDATE THIS...]
 # Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
 # License: MIT
 # Pre-requisites: [...UPDATE THIS...]
